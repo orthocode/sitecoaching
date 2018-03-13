@@ -1,0 +1,77 @@
+<html lang="fr-FR">
+
+<head>
+  <title>Paola Clayette-Goulesque: site de coaching. </title>
+    <link rel="stylesheet" type="text/css" href="codeCSS.css">
+    <link href="https://fonts.googleapis.com/css?family=Cookie|Handlee|Rammetto+One" rel="stylesheet">
+  <meta name="viewport" content="width=device-wide, initial-scale=1">
+
+</head>
+
+<body>
+  
+  <header id="header-paola">
+    <h1 class=" rammetto" style="font-size: 250%">PAOLA CLAYETTE</h1>
+      <h2>Coach professionnelle expérimentée.</h2>
+      <p>Français, Anglais, Espagnol</p>
+  </header>
+    
+    <!--nav-bar à travailler-->
+<div class="nav" >
+  <div class="container">
+    <ul class="menu-accueil">
+      <li><a href="accueil.html">Accueil</a></li>
+      <li><a href="entreprise.html">Coaching Entreprise</a></li>
+      <li><a href="personnel.html">Coaching Personnel</a></li>
+      <li><a href="temoignages.html">Témoignages</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+</div>
+  
+    <div class="row">
+      
+      <div id="profile-slogan">
+
+            <p id="profile-pic">
+              <img src='https://s9.postimg.org/mijdqnqnv/pic-profile.jpg' width="80%" alt='pic-profile' />
+            </p>
+
+            <h2> "Être acteur de sa vie." </h2>
+
+      </div>
+
+      
+      <div>
+
+        <div class="presentation pres-text">
+          <p>Accréditée par <br>l'International Coach Federation (ICF)
+          </p>        
+          <img id="logo-ACC" src='https://s14.postimg.org/kd52q8831/28536790_10214155432054347_217613066_n.jpg' alt='ACC'/>
+          
+        </div>
+        
+        <div class="presentation pres-text">
+          <p>Certifiée RCNP
+          </p>          
+               
+          <img class="logo" src='https://s14.postimg.org/g40co72al/28721567_10214155430494308_626847056_n.jpg' border='0' alt='28721567_10214155430494308_626847056_n'/>
+        
+        <img class="logo" src='https://s14.postimg.org/qe2rngn19/28741116_10214155430814316_836524217_n.jpg' border='0' alt='28741116_10214155430814316_836524217_n'/>
+        
+        </div>
+
+      </div>
+
+    </div>
+
+ 
+
+  <div class="accomp">
+
+    <h2 style="text-align:center;font-size:210%">Accompagnement sur-mesure.</h2>
+    <p id="text-accomp"> Lever les blocages et révéler votre potentiel, <br> pour mieux atteindre vos objectifs personnels et professionnels.</p>
+
+  </div>
+
+</body>
